@@ -1,0 +1,7 @@
+C:\Users\u0353975.AD.001\OneDrive - University of Utah\TrafficLightDemo\TrafficLightDemo\bin\Debug\TrafficLightDemo.exe.config
+C:\Users\u0353975.AD.001\OneDrive - University of Utah\TrafficLightDemo\TrafficLightDemo\bin\Debug\TrafficLightDemo.exe
+C:\Users\u0353975.AD.001\OneDrive - University of Utah\TrafficLightDemo\TrafficLightDemo\bin\Debug\TrafficLightDemo.pdb
+C:\Users\u0353975.AD.001\OneDrive - University of Utah\TrafficLightDemo\TrafficLightDemo\obj\Debug\TrafficLightDemo.csprojAssemblyReference.cache
+C:\Users\u0353975.AD.001\OneDrive - University of Utah\TrafficLightDemo\TrafficLightDemo\obj\Debug\TrafficLightDemo.csproj.CoreCompileInputs.cache
+C:\Users\u0353975.AD.001\OneDrive - University of Utah\TrafficLightDemo\TrafficLightDemo\obj\Debug\TrafficLightDemo.exe
+C:\Users\u0353975.AD.001\OneDrive - University of Utah\TrafficLightDemo\TrafficLightDemo\obj\Debug\TrafficLightDemo.pdb
